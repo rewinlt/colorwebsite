@@ -2,10 +2,10 @@
 
 3 Page For Website
 
-                                                                      #Main Page
-                                                                 ||                  ||
+                                                Main Page
+                                          ||                  ||
                                                                                                  
-                                                               Login                 Sign   
+                                        Login                 Sign   
 
 
 # Main Page
