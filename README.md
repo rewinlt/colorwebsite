@@ -2,6 +2,6 @@
 
 3 Page For Website
 
-         Main Page
-    |                  |
- -Login            - Sign
+           Main Page
+      |                  |
+    Login              Sign   
